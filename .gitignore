@@ -17,3 +17,9 @@ pkg/
 src/
 
 # End of https://www.toptal.com/developers/gitignore/api/archlinuxpackages
+
+
+/QSimpleUpdater/
+/notes/
+/qautostart/
+/qmarkdowntextedit/

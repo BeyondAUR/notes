@@ -16,10 +16,10 @@ source=("git+https://github.com/nuttyartist/notes.git#commit=$_commit"
 	'git+https://github.com/b00f/qautostart.git'
 	'git+https://github.com/pbek/qmarkdowntextedit.git'
 	'git+https://github.com/alex-spataru/QSimpleUpdater.git')
-sha256sums=('SKIP'
-	'SKIP'
-	'SKIP'
-	'SKIP')
+sha256sums=('a7b0b8af30bec001b2d9fd47af6bac3751b24afeea7a136e3eb0f1ab33da8274'
+            'SKIP'
+            'SKIP'
+            'SKIP')
 
 prepare() {
 	cd ${pkgname}
